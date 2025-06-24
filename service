@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Layanan Service HP Profesional</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f2f2f2;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background-color: #1e88e5;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    .container {
+      max-width: 900px;
+      margin: 30px auto;
+      background: white;
+      padding: 25px;
+      box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+      border-radius: 12px;
+    }
+    h2 {
+      color: #1e88e5;
+    }
+    ul {
+      padding-left: 20px;
+    }
+    .highlight {
+      background: #e3f2fd;
+      padding: 15px;
+      border-radius: 10px;
+      margin-top: 25px;
+    }
+    footer {
+      text-align: center;
+      padding: 20px;
+      background-color: #1e88e5;
+      color: white;
+      margin-top: 40px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Service HP Profesional & Terpercaya</h1>
+    <p>Solusi Lengkap untuk Semua Masalah HP Anda</p>
+  </header>
+
+  <div class="container">
+    <p>Kami menyediakan layanan perbaikan handphone dengan standar profesional untuk berbagai merek dan tipe...</p>
+
+    <h2>Layanan Kami:</h2>
+    <ul>
+      <li><strong>Perbaikan Software:</strong> Flashing, update firmware, mengatasi bootloop, lag, dan sistem error.</li>
+      <li><strong>Perbaikan Hardware:</strong> Perbaikan tombol, port charger, IC, dan komponen lainnya.</li>
+      <li><strong>Ganti LCD / Layar Pecah:</strong> Penggantian layar retak atau tidak responsif dengan LCD berkualitas.</li>
+      <li><strong>Unlock iCloud / FRP:</strong> Layanan buka kunci iCloud & FRP secara legal dan aman.</li>
+      <li><strong>Perbaikan HP Kemasukan Air:</strong> Penanganan cepat dan tepat untuk HP terkena air agar tidak rusak parah.</li>
+    </ul>
+
+    <div class="highlight">
+      <h2>Kenapa Pilih Kami?</h2>
+      <ul>
+        <li>Teknisi Bersertifikat</li>
+        <li>Estimasi Harga Transparan</li>
+        <li>Sparepart Berkualitas</li>
+        <li>Proses Cepat & Garansi Layanan</li>
+      </ul>
+      <p><strong>💬 Hubungi kami sekarang</strong> untuk konsultasi gratis atau datang langsung ke toko kami!</p>
+    </div>
+  </div>
+
+  <footer>
+    &copy; 2025 Service HP Profesional. All rights reserved.
+  </footer>
+</body>
+</html>
